@@ -1,3 +1,5 @@
+// https://integration.atol.ru/api/?pascal#primer-ispolzovaniya
+
 Процедура ОсновныеДействияФормыПробитьЧек(Кнопка)
 	
 	Если НомерЧекаККМ <> 0 Тогда
